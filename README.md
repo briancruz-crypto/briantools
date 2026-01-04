@@ -6,4 +6,5 @@ pip install rich
 pip install requests termux-setup-storage
 git clone https://github.com/briancruz-crypto/briantools
 cd briancruz 
-git pull python auto_share.py
+git pull 
+python auto_share.py
